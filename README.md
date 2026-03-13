@@ -9,4 +9,6 @@ Effective inventory and sales management are critical for optimizing profitabili
 • Assess inventory turnover to reduce holding costs and improve efficiency.
 • Investigate the profitability variance between high-performing and low-performing vendors.
 
-<img width="799" height="503" alt="image" src="https://github.com/user-attachments/assets/9642504b-18a3-4083-9dd9-f4e836687c30" />
+<img width="794" height="513" alt="image" src="https://github.com/user-attachments/assets/c3a4c13e-baeb-42df-af60-1520a9172929" />
+
+<img width="765" height="480" alt="image" src="https://github.com/user-attachments/assets/62c18ae5-d498-4eff-8fea-be92daa86748" />
