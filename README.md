@@ -8,3 +8,5 @@ Effective inventory and sales management are critical for optimizing profitabili
 • Analyze the impact of bulk purchasing on unit costs.
 • Assess inventory turnover to reduce holding costs and improve efficiency.
 • Investigate the profitability variance between high-performing and low-performing vendors.
+
+<img width="799" height="503" alt="image" src="https://github.com/user-attachments/assets/9642504b-18a3-4083-9dd9-f4e836687c30" />
