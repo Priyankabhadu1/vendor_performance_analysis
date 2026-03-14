@@ -1,5 +1,3 @@
-# vendor_performance_analysis
-
 # Vendor Performance Analysis Dashboard
 
 ## Project Overview
